@@ -16,7 +16,7 @@ public class WebSeriesEntryDto {
 
     private double rating;
 
-    private SubscriptionType subscriptionType; //This denotes with which of subscriptionType this webseries comes ie. BASIC,PRO, ELITE
+    private SubscriptionType subscriptionType; //This denotes with which of subscriptionType this web series comes ie. BASIC,PRO, ELITE
 
     private Integer productionHouseId;
 
